@@ -1,0 +1,16 @@
+{
+    "name": "phpclass/phpclass",
+    "description": "php libraries",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Phpclass\\Library\\": "src/Library/"
+        }
+    },
+    "authors": [
+        {
+            "name": "it department"
+        }
+    ],
+    "require": {}
+}
